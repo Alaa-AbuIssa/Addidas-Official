@@ -28,7 +28,7 @@ if (favouriteBrands == 'puma') {
     Products = '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ2UshyejhPa_d8Z3JfjhGw8MQncFBf_5Rw&usqp=CAU"/> ';
 
 } else if (favouriteBrands == 'adidas') {
-    Products = '<img src="https://logos-download.com/wp-content/uploads/2016/03/Adidas_logo.png"/> ';
+    Products = '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTeijVDvWFr3IvvW2R_STi7Dz0PkXgDPYWQQ&usqp=CAU"/> ';
     
 }
 
@@ -41,3 +41,5 @@ for (var i = 0; i < NumberOfProducts; i++) {
 console.log(result);
 
 document.write(result);
+
+
